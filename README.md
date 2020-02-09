@@ -1,6 +1,6 @@
 
 
-# A New Approach to 3D ICP Covariance Estimation for Mobile Robotics [[paper](https://arxiv.org/pdf/1909.05722.pdf)]
+# A New Approach to 3D ICP Covariance Estimation [[paper](https://arxiv.org/pdf/1909.05722.pdf)]
 
 ## Overview
 
@@ -58,10 +58,12 @@ The paper _A New Approach to 3D ICP Covariance Estimation for Mobile Robotics, M
 If you use this code in your research, please cite:
 
 ```
-@article{brossard2019anew,
+@article{brossard2020anew,
   author = {Martin Brossard and Silv\`ere Bonnabel and Axel Barrau},
-  title = {{A New Approach to 3D ICP Covariance Estimation for Mobile Robotics}},
-  year = {2019}
+  title = {{A New Approach to 3D ICP Covariance Estimation}},
+  year = {2020},
+  journal={IEEE Robotics and Automation Letters},
+  publisher={IEEE},
 }
 ```
 
